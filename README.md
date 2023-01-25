@@ -1,2 +1,2 @@
 # FlipCard-HTML-CSS
-A Flip card is a design that allows for a card to be flipped over to reveal additional content on the back. This can be accomplished using HTML and CSS.
+A Flip card is a design that allows for a card to be flipped over to reveal additional content on the back. This can be accomplished using HTML and CSS. The front side of the card will contain the initial content, and the back side will contain the additional content. The flip animation can be created using CSS transforms and transitions. The HTML structure for the card will consist of a container element that holds the front and back elements, with each side containing its own content. JavaScript can also be used to toggle the class on the container element to trigger the flip animation.
